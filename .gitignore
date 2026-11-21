@@ -1,0 +1,7 @@
+# Godot cache and generated files
+.godot/
+*.import.tmp
+# Web export (rebuild with the command in README.md)
+build/
+# macOS
+.DS_Store
