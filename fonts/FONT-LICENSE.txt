@@ -1,0 +1,4 @@
+Montserrat-Medium.ttf — The Montserrat Project Authors (https://github.com/JulietaUla/Montserrat)
+Licensed under the SIL Open Font License, Version 1.1 (https://openfontlicense.org).
+Copied from the copy bundled with R (grDevices). Before distributing the game, add the full
+OFL.txt from the Montserrat repository next to this file.
